@@ -14,7 +14,7 @@ data:
     []
 kind: ConfigMap
 metadata:
-  creationTimestamp: "2020-10-28T18:53:47Z"
+  creationTimestamp: "2020-10-29T04:41:47Z"
   name: aws-auth
   namespace: kube-system
   resourceVersion: "3410"

@@ -36,6 +36,7 @@ Parameters:
     MaxLength: 100
     ConstraintDescription: You must enter a GitHub personal access token
 
+
   GitHubUser:
     Type: String
     Default: tipuboyy123
